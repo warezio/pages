@@ -1,0 +1,335 @@
+@charset "UTF-8";
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #000000;
+    color: #dedede;
+}
+a:link {
+    color: #dedede;
+}
+a:visited {
+    color: #bbb;
+}
+a:hover,
+a:active {
+    color: #fff;
+}
+.hide {
+    position: absolute !important;
+    top: -9999px !important;
+    left: -9999px !important;
+}
+header.body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #1b2f5d;
+    color: #e8ebf3;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 1;
+    filter: alpha(opacity=90);
+    opacity: 0.90;
+    -moz-opacity: 0.90;
+}
+header.body .body {
+    display: none;
+    max-width: 1280px;
+}
+nav {
+    margin: 0 auto;
+    padding: 12px 10px 10px;
+    position: relative;
+    max-width: 1280px;
+}
+nav .home {
+    display: inline-block;
+    margin: 0;
+    padding: 4px 12px 0;
+}
+nav .home a {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    width: 124px;
+    height: 30px;
+    background: url('/dist/assets/svg/logo_jiholee_o.svg') center center;
+    background-repeat: no-repeat;
+    background-size: auto 30px;
+}
+nav .menu {
+    display: inline-block;
+    float: right;
+    margin: 0;
+    padding: 2px 12px;
+    top: 0;
+    right: 0;
+    list-style-type: none;
+}
+section.body {
+    margin: 0;
+    padding: 0;
+    padding-top: 60px;
+    width: 100%;
+    background-color: #2a2c33;
+    color: #d5d5d5;
+    text-align: left;
+}
+article.content {
+    margin: 0;
+    padding: 0;
+}
+article.content div.article {
+    margin: 0 auto;
+    padding: 20px 0;
+    text-align: left;
+    font-size: 1.2em;
+    max-width: 1280px;
+}
+footer.body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #22252B;
+    color: #bbb;
+    text-align: center;
+}
+footer.body address {
+    margin: 0 auto;
+    padding: 50px;
+    max-width: 1280px;
+    font-style: normal;
+}
+footer.body div {
+    margin: 0;
+    padding: 10px;
+    width: auto;
+    text-align: center;
+}
+footer.body div a {
+    color: #bbb;
+    transition: all 0.5s 0s ease;
+}
+footer.body div a:hover,
+footer.body div a:active {
+    color: #fff;
+}
+h1 {
+    font-size: 2em;
+    line-height: 120%;
+}
+h2 {
+    font-size: 1.5em;
+}
+h3 {
+    font-size: 1.17em;
+}
+h4 {
+    font-size: 1em;
+}
+img.align-right {
+    float: right;
+    margin: 0 0 1em 1em
+}
+img.align-left {
+    float: left;
+    margin: 0 1em 1em 0
+}
+img.align-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a img.align-right {
+    float: right;
+    margin: 0 0 1em 1em
+}
+a img.align-left {
+    float: left;
+    margin: 0 1em 1em 0
+}
+a img.align-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.align-center {
+    text-align: center;
+}
+.align-left {
+    text-align: left;
+}
+hr.blank {
+    border: none;
+    background: none;
+}
+hr.blank.40 {
+    height: 40px;
+}
+hr.line {
+    height: 0px;
+    border: none;
+    border-bottom: 1px solid #262626;
+}
+.font12 {
+    font-size: 1.2em;
+}
+a.btn {
+    padding: 14px 24px;
+    text-align: center;
+    font-size: 1.0em;
+    color: #dadada;
+    background-color: #425995;
+    font-weight: normal;
+    letter-spacing: normal;
+    border: #284168 solid 1px;
+    border-radius: 5px;
+    background-clip: padding-box;
+    text-decoration: none;
+    transition: all 0.5s 0s ease;
+}
+a.btn:hover {
+    background: #2f4171;
+    cursor: pointer;
+    color: #fff;
+}
+a.btn:active {
+    background: #546b9d;
+    color: #fff;
+    transition: all 0s 0s ease;
+}
+header.article {
+    margin: 0;
+    padding: 200px 0;
+    width: 100%;
+    text-align: center;
+    background-color: #111017;
+    background: url('/dist/assets/img/bg/bg_coding.jpg');
+    background-repeat: repeat;
+}
+header.article div.header {
+    display: inline-block;
+    margin: 0 auto;
+    padding: 0;
+    width: auto;
+    height: auto;
+    text-align: left;
+    color: #fff;
+    line-height: 150%;
+    min-width: 260px;
+    background: url('/dist/assets/svg/logo_jiholee_o.svg') center center;
+    background-repeat: no-repeat;
+    background-size: auto 60px;
+}
+header.article div.header ul {
+    list-style-type: none;
+    padding: 0;
+}
+article.content section.block {
+    display: block;
+    margin: 0;
+    padding: 20px;
+    width: auto;
+    white-space: normal;
+    border-bottom: 1px solid #444;
+}
+article.content section .inline {
+    display: inline-block;
+    padding: 0;
+    padding-right: 20px;
+    min-width: 300px;
+    vertical-align: top;
+}
+article.content section .inline.sp2 {
+    width: calc(50% - 40px);
+    max-width: 620px;
+}
+article.content section .inline.sp3 {
+    width: calc(33% - 20px);
+    max-width: 400px;
+}
+article.content section .inline.sp7p {
+    width: calc(70% - 20px);
+    max-width: 1300px;
+}
+article.content section p {
+    font-size: 1em;
+    line-height: 150%;
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+}
+article.content section .inline h3,
+article.content section .inline h4 {
+    margin: 0.6em 0;
+}
+article.content section .inline ul {
+    list-style-type: round;
+    margin: 0;
+    padding: 0 20px 20px;
+    line-height: 150%;
+}
+article.content section .inline ul li {
+    margin: 0;
+}
+article.content section.block.btn {
+    clear: both;
+    display: block;
+    padding: 50px 0;
+    text-align: center;
+    border: none;
+}
+article.content .article section dl.list {
+    margin: 0;
+    padding: 0;
+}
+article.content .article section dl.list dt,
+article.content .article section dl.list dd {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+article.content .article section dl.list dt {
+    display: table-cell;
+    width: 90px;
+}
+article.content .article section dl.list figure {
+    display: inline;
+    margin: 0;
+    padding: 0;
+    width: 80px;
+    height: 80px;
+    text-align: left;
+    overflow: hidden;
+}
+article.content .article section dl.list figure img {
+    width: 65px;
+    height: 65px;
+    border: 5px solid #fff;
+    border-radius: 50%;
+    float: left;
+}
+article.content .article section dl.list dd.detail {
+    display: table-cell;
+    vertical-align: top;
+}
+article.content .article section dl.list dd.project {
+    display: block;
+    clear: both;
+}
+article.content .article section dl.list dd.detail ul.list {
+    margin: 0;
+    padding: 0;
+}
+article.content .article section dl.list dd.project ul.list {
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+article.content .article section dl.list dd.detail ul.list li {
+    display: inline-block;
+}
