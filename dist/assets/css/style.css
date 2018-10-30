@@ -218,17 +218,12 @@ header.article {
 header.article div.header {
     display: inline-block;
     margin: 0 auto;
-    padding: 100px 20px 0;
+    padding: 100px 20px;
     width: auto;
     height: auto;
     text-align: right;
     color: #eee;
     line-height: 150%;
-    min-width: 260px;
-    background: url('/dist/assets/svg/logo_jiholee_o.svg');
-    background-position: top center;
-    background-repeat: no-repeat;
-    background-size: auto 60px;
 }
 header.article div.header h1 {
     margin: 20px 0;
