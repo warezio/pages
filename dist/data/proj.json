@@ -1,0 +1,309 @@
+{
+    "projects": [{
+            "group": "01",
+            "id": "1",
+            "title": "Yulgokhouse website",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "01",
+            "id": "2",
+            "title": "MP3 Sharing website",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "01",
+            "id": "3",
+            "title": "HundredZero website",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "01",
+            "id": "4",
+            "title": "2002 FIFA Worldcup Korea Japan website",
+            "source": "",
+            "description": ""
+        },
+
+        {
+            "group": "02",
+            "id": "1",
+            "title": "Orange Clan website",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "02",
+            "id": "2",
+            "title": "Animation Study website",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "02",
+            "id": "3",
+            "title": "Starcraft KoreaClan website",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "02",
+            "id": "4",
+            "title": "Tosoul e-commerce website",
+            "source": "",
+            "description": ""
+        },
+
+        {
+            "group": "03",
+            "id": "1",
+            "title": "Seil I&amp;C Re-branding",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "03",
+            "id": "2",
+            "title": "Ultramania PC branding",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "03",
+            "id": "3",
+            "title": "Amageddon consol game",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "03",
+            "id": "4",
+            "title": "Jumakkuri branding",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "03",
+            "id": "5",
+            "title": "I&amp;C Golf Club branding",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "03",
+            "id": "6",
+            "title": "Nolbune Karaoke branding",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "03",
+            "id": "7",
+            "title": "NIX 2030 branding",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "03",
+            "id": "8",
+            "title": "Boksgol Gamjatang branding",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "03",
+            "id": "9",
+            "title": "JEWELL branding",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "03",
+            "id": "10",
+            "title": "Tapyongyang Sushi branding",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "03",
+            "id": "11",
+            "title": "NeiL Franchise branding",
+            "source": "",
+            "description": ""
+        },
+
+        {
+            "group": "04",
+            "id": "1",
+            "title": "Signal Simulator for SKT",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "04",
+            "id": "2",
+            "title": "RoadMate website",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "04",
+            "id": "3",
+            "title": "Onse Intranet",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "04",
+            "id": "4",
+            "title": "I Love LBS website",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "04",
+            "id": "5",
+            "title": "RoadMate Autocard website",
+            "source": "",
+            "description": ""
+        },
+
+        {
+            "group": "05",
+            "id": "1",
+            "title": "Ubistar website",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "05",
+            "id": "2",
+            "title": "Ubidial website",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "05",
+            "id": "3",
+            "title": "Ubibras website",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "05",
+            "id": "4",
+            "title": "Sencio website",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "05",
+            "id": "5",
+            "title": "Copiloto website",
+            "source": "",
+            "description": ""
+        },
+
+        {
+            "group": "06",
+            "id": "1",
+            "title": "Wewelcom website",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "06",
+            "id": "2",
+            "title": "DearWendy e-commerce website",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "06",
+            "id": "3",
+            "title": "Overload website",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "06",
+            "id": "4",
+            "title": "Poptissue website",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "06",
+            "id": "5",
+            "title": "SoundMu website",
+            "source": "",
+            "description": ""
+        },
+
+        {
+            "group": "07",
+            "id": "1",
+            "title": "Private Chat app",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "07",
+            "id": "2",
+            "title": "Comnekr ASP e-commerce boilerplate",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "07",
+            "id": "3",
+            "title": "SMS bulk messeging app",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "07",
+            "id": "4",
+            "title": "e-commerce abroad trading solution",
+            "source": "",
+            "description": ""
+        },
+
+        {
+            "group": "08",
+            "id": "1",
+            "title": "Room Control Management app",
+            "source": "",
+            "description": ""
+        },
+        {
+            "group": "08",
+            "id": "2",
+            "title": "Automated Posting on SNS",
+            "source": "",
+            "description": ""
+        },
+
+        {
+            "group": "09",
+            "id": "1",
+            "title": "Womens Wholesale B2B Marketplace",
+            "description": "Womens Wholesale B2B Marketplace"
+        },
+        {
+            "group": "09",
+            "id": "2",
+            "title": "SNS Marketing Integration",
+            "description": "SNS Marketing Integration"
+        },
+        {
+            "group": "09",
+            "id": "3",
+            "title": "API openmarket integrated single control",
+            "description": "API openmarket integrated single control"
+        }
+    ]
+}
