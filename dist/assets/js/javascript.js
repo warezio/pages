@@ -1,4 +1,4 @@
-if (location.protocol != 'https:'){location.href = 'https:' + window.location.href.substring(window.location.protocol.length);}
+if(location.protocol!='https:'){location.href='https:'+window.location.href.substring(window.location.protocol.length);}
 const domain = "jiholee.me";
 const email = "hr@jiholee.me";
 const phone = "+1 (213) 935-7612";
