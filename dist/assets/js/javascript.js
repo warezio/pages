@@ -2,7 +2,7 @@ const domain = "jiholee.me";
 const email = "hr@jiholee.me";
 const phone = "+1 (213) 935-7612";
 const resume = "/dist/assets/pdf/resume_jiholee.pdf";
-const tawkkey = "5bd6aa8465224c26405130ac";
+const tawkkey = "5bdbe9b88cf925451c51c468";
 const linkedinLink = "https://www.linkedin.com/in/jiho-lee-dev?trk=profile-badge-cta";
 const linkedinLogo = "https://static.licdn.com/scds/common/u/images/logos/linkedin/logo_linkedin_flat_white_93x21.png";
 const proPic = "https://media.licdn.com/dms/image/C5603AQEH-AQ8G8AA-g/profile-displayphoto-shrink_200_200/0?e=1547078400&v=beta&t=easjCe6QgZgnsaI5ihKCCQ5xbK2WtYB64WYM0wJ5z4Y";
