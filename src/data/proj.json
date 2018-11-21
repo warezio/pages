@@ -1,207 +1,255 @@
 {
     "projects": [{
             "group": "01",
-            "id": "1",
-            "title": "Yulgokhouse website",
-            "source": "",
-            "description": ""
-        },
-        {
-            "group": "01",
-            "id": "2",
-            "title": "MP3 Sharing website",
-            "source": "",
-            "description": ""
-        },
-        {
-            "group": "01",
-            "id": "3",
-            "title": "HundredZero website",
-            "source": "",
-            "description": ""
-        },
-        {
-            "group": "01",
-            "id": "4",
             "title": "2002 FIFA Worldcup Korea Japan website",
-            "source": "",
-            "description": ""
+            "source": "worldcup01",
+            "description": "A contest entry to be hosted by the Korea Newspaper Donga Ilbo. Won the encouragement prize.<br/>HTML, CSS, JavaScript, PHP, MySQL, Flash, ActionScript"
+        },
+        {
+            "group": "01",
+            "title": "MP3 Sharing website",
+            "source": "mp3musicshare01",
+            "description": "Builded a website to share MP3 music for everyone and closed by legal issue<br/>HTML, CSS, JavaScript, PHP, MySQL, CGI, Perl"
+        },
+        {
+            "group": "01",
+            "title": "Baekyoung High School website",
+            "source": "baekyounghighschool01",
+            "description": "Baekyoung High School website<br/>HTML, CSS, JavaScript, PHP, MySQL"
+        },
+        {
+            "group": "01",
+            "title": "HundredZero website",
+            "source": "hundredzero01",
+            "description": "Starcraft game clan website<br/>HTML, CSS, JavaScript, PHP, MySQL, ZeroBoard"
+        },
+        {
+            "group": "01",
+            "title": "Yulgokhouse website",
+            "source": "yulgokhouse01",
+            "description": "Yulgok children's house website. Montessori education contents and training contents guide<br/>Flash, ActionScript"
         },
 
         {
             "group": "02",
-            "id": "1",
-            "title": "Orange Clan website",
-            "source": "",
-            "description": ""
+            "title": "TosouL e-commerce website",
+            "source": "tosoul01",
+            "description": "Apparel e-commerce website,  connect with Payment Gateway service. partnership with credit card provider for reward point<br/>Html, CSS, Javascript, Linux, Apache, PHP, MySQL"
         },
         {
             "group": "02",
-            "id": "2",
+            "title": "TosouL logo design",
+            "source": "tosoul02",
+            "description": "Apparel brand TosouL logo design"
+        },
+        {
+            "group": "02",
+            "title": "Warcraft KoreaClan website",
+            "source": "koreaclan01",
+            "description": "Member joining system, request challange team clan war. application for tournament, real-time user connection.<br/>Html, CSS, Javascript, Linux, Apache, PHP, MySQL"
+        },
+        {
+            "group": "02",
+            "title": "Gaya Wedding website",
+            "source": "gayawedding01",
+            "description": "Sign up for wedding consulting, form management for reservation, collecting servay data<br/>Html, CSS, Javascript, Linux, Apache, PHP, MySQL"
+        },
+        {
+            "group": "02",
             "title": "Animation Study website",
-            "source": "",
-            "description": ""
+            "source": "animationstudy01",
+            "description": "Educational website about animation. Implemented to play video contents on the web using buffer.<br/>Html, CSS, Javascript, Linux, Apache, PHP, MySQL"
         },
         {
             "group": "02",
-            "id": "3",
-            "title": "Starcraft KoreaClan website",
-            "source": "",
-            "description": ""
-        },
-        {
-            "group": "02",
-            "id": "4",
-            "title": "Tosoul e-commerce website",
-            "source": "",
-            "description": ""
+            "title": "Orange Clan website",
+            "source": "orangeclan01",
+            "description": "Starcraft game clan website<br/>Build own BBS without ZeroBoard, integrated third-party web chat<br/>HTML, CSS, JavaScript, PHP, MySQL"
         },
 
         {
             "group": "03",
-            "id": "1",
-            "title": "Seil I&amp;C Re-branding",
-            "source": "",
-            "description": ""
-        },
-        {
-            "group": "03",
-            "id": "2",
             "title": "Ultramania PC branding",
             "source": "",
             "description": ""
         },
         {
             "group": "03",
-            "id": "3",
             "title": "Amageddon consol game",
             "source": "",
             "description": ""
         },
         {
             "group": "03",
-            "id": "4",
             "title": "Jumakkuri branding",
             "source": "",
             "description": ""
         },
         {
             "group": "03",
-            "id": "5",
             "title": "I&amp;C Golf Club branding",
             "source": "",
             "description": ""
         },
         {
             "group": "03",
-            "id": "6",
             "title": "Nolbune Karaoke branding",
             "source": "",
             "description": ""
         },
         {
             "group": "03",
-            "id": "7",
             "title": "NIX 2030 branding",
             "source": "",
             "description": ""
         },
         {
             "group": "03",
-            "id": "8",
             "title": "Boksgol Gamjatang branding",
             "source": "",
             "description": ""
         },
         {
             "group": "03",
-            "id": "9",
             "title": "JEWELL branding",
             "source": "",
             "description": ""
         },
         {
             "group": "03",
-            "id": "10",
             "title": "Tapyongyang Sushi branding",
             "source": "",
             "description": ""
         },
         {
             "group": "03",
-            "id": "11",
             "title": "NeiL Franchise branding",
             "source": "",
             "description": ""
         },
+        {
+            "group": "03",
+            "title": "Ultramania PC cafe franchise website",
+            "source": "ultramania07",
+            "description": "Ultramania PC cafe franchise website"
+        },
+        {
+            "group": "03",
+            "title": "Ultramania PC re-branding sign panel design",
+            "source": "ultramania06",
+            "description": "Ultramania PC re-branding sign panel design"
+        },
+        {
+            "group": "03",
+            "title": "Ultramania PC re-branding sign panel design",
+            "source": "ultramania05",
+            "description": "Ultramania PC re-branding sign panel design"
+        },
+        {
+            "group": "03",
+            "title": "Ultramania PC re-branding banner design",
+            "source": "ultramania04",
+            "description": "Ultramania PC re-branding banner design"
+        },
+        {
+            "group": "03",
+            "title": "Ultramania PC re-branding business design",
+            "source": "ultramania03",
+            "description": "Ultramania PC re-branding business design"
+        },
+        {
+            "group": "03",
+            "title": "Ultramania PC re-branding character design",
+            "source": "ultramania02",
+            "description": "Ultramania PC re-branding character design"
+        },
+        {
+            "group": "03",
+            "title": "Ultramania PC re-branding logo design",
+            "source": "ultramania01",
+            "description": "Ultramania PC re-branding logo design"
+        },
+        {
+            "group": "03",
+            "title": "SeiL I&amp;C outdoor sign design",
+            "source": "seilinc04",
+            "description": "SeiL I&amp;C re-branding outdoor sign panel design"
+        },
+        {
+            "group": "03",
+            "title": "SeiL I&amp;C indoor sign design",
+            "source": "seilinc03",
+            "description": "SeiL I&amp;C re-branding indoor sign panel design"
+        },
+        {
+            "group": "03",
+            "title": "SeiL I&amp;C business card design",
+            "source": "seilinc02",
+            "description": "SeiL I&amp;C re-branding business card design"
+        },
+        {
+            "group": "03",
+            "title": "SeiL I&amp;C logo design",
+            "source": "seilinc01",
+            "description": "SeiL I&amp;C re-branding logo design"
+        },
 
         {
             "group": "04",
-            "id": "1",
             "title": "Signal Simulator for SKT",
             "source": "",
             "description": ""
         },
         {
             "group": "04",
-            "id": "2",
             "title": "RoadMate website",
             "source": "",
             "description": ""
         },
         {
             "group": "04",
-            "id": "3",
             "title": "Onse Intranet",
             "source": "",
             "description": ""
         },
         {
             "group": "04",
-            "id": "4",
             "title": "I Love LBS website",
             "source": "",
             "description": ""
         },
         {
             "group": "04",
-            "id": "5",
             "title": "RoadMate Autocard website",
             "source": "",
             "description": ""
         },
-
         {
             "group": "05",
-            "id": "1",
             "title": "Ubistar website",
             "source": "",
             "description": ""
         },
         {
             "group": "05",
-            "id": "2",
             "title": "Ubidial website",
             "source": "",
             "description": ""
         },
         {
             "group": "05",
-            "id": "3",
             "title": "Ubibras website",
             "source": "",
             "description": ""
         },
         {
             "group": "05",
-            "id": "4",
             "title": "Sencio website",
             "source": "",
             "description": ""
         },
         {
             "group": "05",
-            "id": "5",
             "title": "Copiloto website",
             "source": "",
             "description": ""
@@ -209,35 +257,30 @@
 
         {
             "group": "06",
-            "id": "1",
             "title": "Wewelcom website",
             "source": "",
             "description": ""
         },
         {
             "group": "06",
-            "id": "2",
             "title": "DearWendy e-commerce website",
             "source": "",
             "description": ""
         },
         {
             "group": "06",
-            "id": "3",
             "title": "Overload website",
             "source": "",
             "description": ""
         },
         {
             "group": "06",
-            "id": "4",
             "title": "Poptissue website",
             "source": "",
             "description": ""
         },
         {
             "group": "06",
-            "id": "5",
             "title": "SoundMu website",
             "source": "",
             "description": ""
@@ -245,43 +288,36 @@
 
         {
             "group": "07",
-            "id": "1",
             "title": "Private Chat app",
             "source": "",
             "description": ""
         },
         {
             "group": "07",
-            "id": "2",
             "title": "Comnekr ASP e-commerce boilerplate",
             "source": "",
             "description": ""
         },
         {
             "group": "07",
-            "id": "3",
             "title": "SMS bulk messeging app",
             "source": "",
             "description": ""
         },
         {
             "group": "07",
-            "id": "4",
             "title": "e-commerce abroad trading solution",
             "source": "",
             "description": ""
         },
-
         {
             "group": "08",
-            "id": "1",
             "title": "Room Control Management app",
             "source": "",
             "description": ""
         },
         {
             "group": "08",
-            "id": "2",
             "title": "Automated Posting on SNS",
             "source": "",
             "description": ""
@@ -289,19 +325,16 @@
 
         {
             "group": "09",
-            "id": "1",
             "title": "Womens Wholesale B2B Marketplace",
             "description": "Womens Wholesale B2B Marketplace"
         },
         {
             "group": "09",
-            "id": "2",
             "title": "SNS Marketing Integration",
             "description": "SNS Marketing Integration"
         },
         {
             "group": "09",
-            "id": "3",
             "title": "API openmarket integrated single control",
             "description": "API openmarket integrated single control"
         }
