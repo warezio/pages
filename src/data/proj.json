@@ -1,30 +1,35 @@
 {
     "projects": [{
             "group": "01",
+            "date": "2000",
             "title": "2002 FIFA Worldcup Korea Japan website",
             "source": "worldcup01",
             "description": "A contest entry to be hosted by the Korea Newspaper Donga Ilbo. Won the encouragement prize.<br/>HTML, CSS, JavaScript, PHP, MySQL, Flash, ActionScript"
         },
         {
             "group": "01",
+            "date": "2000",
             "title": "MP3 Sharing website",
             "source": "mp3musicshare01",
             "description": "Builded a website to share MP3 music for everyone and closed by legal issue<br/>HTML, CSS, JavaScript, PHP, MySQL, CGI, Perl"
         },
         {
             "group": "01",
+            "date": "1999",
             "title": "Baekyoung High School website",
             "source": "baekyounghighschool01",
             "description": "Baekyoung High School website<br/>HTML, CSS, JavaScript, PHP, MySQL"
         },
         {
             "group": "01",
+            "date": "1999",
             "title": "HundredZero website",
             "source": "hundredzero01",
             "description": "Starcraft game clan website<br/>HTML, CSS, JavaScript, PHP, MySQL, ZeroBoard"
         },
         {
             "group": "01",
+            "date": "1999",
             "title": "Yulgokhouse website",
             "source": "yulgokhouse01",
             "description": "Yulgok children's house website. Montessori education contents and training contents guide<br/>Flash, ActionScript"
@@ -32,6 +37,7 @@
 
         {
             "group": "02",
+            "date": "",
             "title": "TosouL e-commerce website",
             "source": "tosoul01",
             "description": "Apparel e-commerce website,  connect with Payment Gateway service. partnership with credit card provider for reward point<br/>Html, CSS, Javascript, Linux, Apache, PHP, MySQL"
@@ -328,147 +334,241 @@
 
         {
             "group": "04",
+            "date": "2003",
             "title": "Signal Simulator for SKT",
-            "source": "",
-            "description": ""
+            "source": "signalsimulator01",
+            "description": "SI business project that provides software for SK Telecom. Simulating to calculate for the best position of signal towels."
         },
         {
             "group": "04",
+            "date": "2004",
             "title": "RoadMate website",
-            "source": "",
-            "description": ""
+            "source": "roadmate01",
+            "description": "RoadMate website renewal that was the one of company's product for drivers which is voice commander service device with GPS."
         },
         {
             "group": "04",
-            "title": "Onse Intranet",
-            "source": "",
-            "description": ""
-        },
-        {
-            "group": "04",
-            "title": "I Love LBS website",
-            "source": "",
-            "description": ""
-        },
-        {
-            "group": "04",
-            "title": "RoadMate Autocard website",
-            "source": "",
-            "description": ""
+            "date": "2004",
+            "title": "Onse Intranet web",
+            "source": "onseintranet01",
+            "description": "Built web-based intranet service for for whole company employers."
         },
         {
             "group": "05",
+            "date": "2005",
             "title": "Ubistar website",
-            "source": "",
-            "description": ""
+            "source": "ubistar01",
+            "description": "GIS service department brand Ubistar products introduction website."
         },
         {
             "group": "05",
+            "date": "2005",
             "title": "Ubidial website",
-            "source": "",
-            "description": ""
+            "source": "ubidial01",
+            "description": "WiBro VOIP service department brand Ubidial products introduction website."
         },
         {
             "group": "05",
-            "title": "Ubibras website",
-            "source": "",
-            "description": ""
-        },
-        {
-            "group": "05",
+            "date": "2005",
             "title": "Sencio website",
-            "source": "",
-            "description": ""
+            "source": "sencio01",
+            "description": "Digital convergence satellite DMB receiving terminal device Sencio product introduction website."
+        },
+        {
+            "group": "04",
+            "date": "2006",
+            "title": "I Love LBS website",
+            "source": "ilovelbs01",
+            "description": "LBS product that is voice command assistance with visual TEXT by GPS in vehicle website."
+        },
+        {
+            "group": "04",
+            "date": "2006",
+            "title": "RoadMate Autocard web",
+            "source": "roadmateauto01",
+            "description": "RoadMate and Hana Bank's affiliate credit card service introduction website."
         },
         {
             "group": "05",
+            "date": "2007",
+            "title": "Uhakmon website",
+            "source": "uhakmon01",
+            "description": "Professional community website for international students."
+        },
+        {
+            "group": "05",
+            "date": "2007",
+            "title": "Ubibras website",
+            "source": "ubibras01",
+            "description": "Service and sales for GPS voice commander products as same as RoadMate devices new brand ‘Copiloto’."
+        },
+        {
+            "group": "05",
+            "date": "2007",
             "title": "Copiloto website",
-            "source": "",
-            "description": ""
+            "source": "copiloto01",
+            "description": "GPS base product brand Copiloto introduction website."
         },
-
+        {
+            "group": "05",
+            "date": "2008",
+            "title": "Magnet web map",
+            "source": "magnet01",
+            "description": "Map service works on the web like Google Maps. You can record and share your own location information in conjunction with the company's core product, navigation."
+        },
         {
             "group": "06",
+            "date": "2008",
+            "title": "DearWendy e-commerce mall",
+            "source": "dearwendy01",
+            "description": "Online women's clothing shopping mall built with Ruby-based e-commerce solution."
+        },
+        {
+            "group": "06",
+            "date": "2008",
             "title": "Wewelcom website",
-            "source": "",
-            "description": ""
+            "source": "wewelcom01",
+            "description": "Wewelcom static company website."
         },
         {
             "group": "06",
-            "title": "DearWendy e-commerce website",
-            "source": "",
-            "description": ""
-        },
-        {
-            "group": "06",
+            "date": "2009",
             "title": "Overload website",
-            "source": "",
-            "description": ""
+            "source": "overload01",
+            "description": "Off-road travel guide and introduce Overland website. "
         },
         {
             "group": "06",
+            "date": "2009",
             "title": "Poptissue website",
-            "source": "",
-            "description": ""
+            "source": "poptissue01",
+            "description": "Pop tissue product introduction and online sales website."
         },
         {
             "group": "06",
+            "date": "2009",
             "title": "SoundMu website",
-            "source": "",
-            "description": ""
+            "source": "soundmu01",
+            "description": "Renewal whole site that related to sound engineer. Implemented community, information sharing, job search function by separating engineer membership and corporate members."
         },
-
+        {
+            "group": "06",
+            "date": "2009",
+            "title": "Moritdol website",
+            "source": "moritdol01",
+            "description": "Architectural Design Office Introduction website."
+        },
         {
             "group": "07",
+            "date": "2010",
+            "title": "ClubSpin website",
+            "source": "clubspin01",
+            "description": "WordPress CMS based club introduction website."
+        },
+        {
+            "group": "07",
+            "date": "2011",
             "title": "Private Chat app",
-            "source": "",
-            "description": ""
+            "source": "privatechat01",
+            "description": "A SPA private chat messaging app service running in a browser."
         },
         {
             "group": "07",
-            "title": "Comnekr ASP e-commerce boilerplate",
-            "source": "",
-            "description": ""
+            "date": "2012",
+            "title": "Comnekr ASP e-commerce",
+            "source": "comnekr01",
+            "description": "E-commerce solution for Active Server Page. "
         },
         {
             "group": "07",
-            "title": "SMS bulk messeging app",
-            "source": "",
-            "description": ""
+            "date": "2013",
+            "title": "SMS bulk messaging app",
+            "source": "smsbulk01",
+            "description": "Sends SMS in bulk, periodically at a certain time, or automatically sends a specified SMS when a specific event occurs. "
         },
         {
             "group": "07",
+            "date": "2014",
             "title": "e-commerce abroad trading solution",
-            "source": "",
-            "description": ""
+            "source": "abbroadtrading01",
+            "description": "In addition to the ASP-based boilerplate solution, added overseas delivery and worldwide shipping functions."
         },
         {
             "group": "08",
+            "date": "2014",
             "title": "Room Control Management app",
-            "source": "",
-            "description": ""
+            "source": "roomcontrol01",
+            "description": "Room Control Management app could be added WooCommerce function to Wordpress base to manage rental payment as plugins."
         },
         {
             "group": "08",
+            "date": "2015",
+            "title": "HCA landing design",
+            "source": "hcalanding01",
+            "description": "Landing page design for HCA website."
+        },
+        {
+            "group": "08",
+            "date": "2015",
+            "title": "Pin Auth with official authorization",
+            "source": "pinauth01",
+            "description": "Authorization feature on PIN with official authoization."
+        },
+        {
+            "group": "08",
+            "date": "2015",
+            "title": "Landing page design",
+            "source": "landingpage01",
+            "description": "Landing page design for product."
+        },
+        {
+            "group": "09",
+            "date": "2016",
+            "title": "Wholesale B2B Marketplace",
+            "source": "wholesaleb2b01",
+            "description": "Wholesale B2B marketplace plugin on Wordpress with WooCommerce and Dokan multivendor. "
+        },
+        {
+            "group": "09",
+            "date": "2016",
             "title": "Automated Posting on SNS",
-            "source": "",
-            "description": ""
-        },
-
-        {
-            "group": "09",
-            "title": "Womens Wholesale B2B Marketplace",
-            "description": "Womens Wholesale B2B Marketplace"
+            "source": "autopost01",
+            "description": "Wordpress plugin for automated posting on SNS."
         },
         {
             "group": "09",
-            "title": "SNS Marketing Integration",
-            "description": "SNS Marketing Integration"
+            "date": "2017",
+            "title": "Lyrics for app",
+            "source": "lyricsapp01",
+            "description": "UX/UI design for Lyrics app."
         },
         {
             "group": "09",
-            "title": "API openmarket integrated single control",
-            "description": "API openmarket integrated single control"
+            "date": "2017",
+            "title": "ICO landing design",
+            "source": "icolanding01",
+            "description": "Landing page design for ICO website."
+        },
+        {
+            "group": "09",
+            "date": "2017",
+            "title": "Block-chain admin webapp",
+            "source": "blockadmin01",
+            "description": "Implementing administrator web functionality for block chaining."
+        },
+        {
+            "group": "09",
+            "date": "2017",
+            "title": "Chain sign landing design",
+            "source": "chainsign01",
+            "description": "Landing page design for Chain sign."
+        },
+        {
+            "group": "09",
+            "date": "2018",
+            "title": "Open-market API integration",
+            "source": "openmarket01",
+            "description": "Open-market API integrated in single control web app."
         }
     ]
 }
