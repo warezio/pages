@@ -1,7 +1,7 @@
 if(location.protocol!='https:'){location.href='https:'+window.location.href.substring(window.location.protocol.length);}
 const domain = "jiholee.me";
 const email = "hr@jiholee.me";
-const phone = "+1 (213) 935-7612";
+const phone = "+1 (949) 233-8000";
 const resume = "/src/assets/pdf/resume_jiholee.pdf";
 const tawkkey = "5bdbe9b88cf925451c51c468";
 const linkedinLink = "https://www.linkedin.com/in/jiho-lee-dev?trk=profile-badge-cta";
