@@ -570,6 +570,20 @@
 			"title": "Open-market API integration",
 			"source": "openmarket01",
 			"description": "Open-market API integrated in single control web app."
+		},
+		{
+			"group": "10",
+			"date": "2019",
+			"title": "Genesis Pre-Delivery Inspection System",
+			"source": "genesispdi01",
+			"description": "Genesis PDI System Web Application"
+		},
+		{			
+			"group": "10",
+			"date": "2019",
+			"title": "Genesis PDI Android application",
+			"source": "genesispdi02",
+			"description": "Genesis PDI System Website"
 		}
 	]
 }
