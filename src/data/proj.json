@@ -495,105 +495,105 @@
 			"description": "In addition to the ASP-based boilerplate solution, added overseas delivery and worldwide shipping functions."
 		},
 		{
-			"group": "08",
+			"group": "07",
 			"date": "2014",
 			"title": "Room Control Management app",
 			"source": "roomcontrol01",
 			"description": "Room Control Management app could be added WooCommerce function to Wordpress base to manage rental payment as plugins."
 		},
 		{
-			"group": "08",
+			"group": "07",
 			"date": "2015",
 			"title": "HCA landing design",
 			"source": "hcalanding01",
 			"description": "Landing page design for HCA website."
 		},
 		{
-			"group": "08",
+			"group": "07",
 			"date": "2015",
 			"title": "Pin Auth with official authorization",
 			"source": "pinauth01",
 			"description": "Authorization feature on PIN with official authoization."
 		},
 		{
-			"group": "08",
+			"group": "07",
 			"date": "2015",
 			"title": "Landing page design",
 			"source": "landingpage01",
 			"description": "Landing page design for product."
 		},
 		{
-			"group": "09",
+			"group": "07",
 			"date": "2016",
 			"title": "Wholesale B2B Marketplace",
 			"source": "wholesaleb2b01",
 			"description": "Wholesale B2B marketplace plugin on Wordpress with WooCommerce and Dokan multivendor. "
 		},
 		{
-			"group": "09",
+			"group": "07",
 			"date": "2016",
 			"title": "Automated Posting on SNS",
 			"source": "autopost01",
 			"description": "Wordpress plugin for automated posting on SNS."
 		},
 		{
-			"group": "09",
+			"group": "07",
 			"date": "2017",
 			"title": "Lyrics for app",
 			"source": "lyricsapp01",
 			"description": "UX/UI design for Lyrics app."
 		},
 		{
-			"group": "09",
+			"group": "07",
 			"date": "2017",
 			"title": "ICO landing design",
 			"source": "icolanding01",
 			"description": "Landing page design for ICO website."
 		},
 		{
-			"group": "09",
+			"group": "07",
 			"date": "2017",
 			"title": "Block-chain admin webapp",
 			"source": "blockadmin01",
 			"description": "Implementing administrator web functionality for block chaining."
 		},
 		{
-			"group": "09",
+			"group": "07",
 			"date": "2017",
 			"title": "Chain sign landing design",
 			"source": "chainsign01",
 			"description": "Landing page design for Chain sign."
 		},
 		{
-			"group": "09",
+			"group": "07",
 			"date": "2018",
 			"title": "Open-market API integration",
 			"source": "openmarket01",
 			"description": "Open-market API integrated in single control web app."
 		},
 		{			
-			"group": "10",
+			"group": "08",
 			"date": "2019",
 			"title": "Hyundai Motor America PDI Android App",
-			"source": "hyundaipdi01",
+			"source": "hmapdi01",
 			"description": "Hyundai Pre Delivery Inspection Android application."
 		},
 		{			
-			"group": "10",
+			"group": "08",
 			"date": "2019",
 			"title": "Hyundai Motor America PDI Web application",
-			"source": "hyundaipdi02",
+			"source": "hmapdi02",
 			"description": "Hyundai Pre Delivery Inspection Web application."
 		},
 		{			
-			"group": "10",
+			"group": "08",
 			"date": "2019",
 			"title": "Genesis PDI Android application",
 			"source": "genesispdi01",
 			"description": "Genesis PDI System Android application."
 		},
 		{
-			"group": "10",
+			"group": "08",
 			"date": "2019",
 			"title": "Genesis Pre-Delivery Inspection System",
 			"source": "genesispdi02",
