@@ -461,94 +461,17 @@
 		},
 		{
 			"group": "07",
-			"date": "2010",
-			"title": "ClubSpin website",
-			"source": "clubspin01",
-			"description": "WordPress CMS based club introduction website."
-		},
-		{
-			"group": "07",
-			"date": "2011",
-			"title": "Private Chat app",
-			"source": "privatechat01",
-			"description": "A SPA private chat messaging app service running in a browser."
-		},
-		{
-			"group": "07",
-			"date": "2012",
-			"title": "Comnekr ASP e-commerce",
-			"source": "comnekr01",
-			"description": "E-commerce solution for Active Server Page. "
-		},
-		{
-			"group": "07",
-			"date": "2013",
-			"title": "SMS bulk messaging app",
-			"source": "smsbulk01",
-			"description": "Sends SMS in bulk, periodically at a certain time, or automatically sends a specified SMS when a specific event occurs. "
-		},
-		{
-			"group": "07",
-			"date": "2014",
-			"title": "e-commerce abroad trading solution",
-			"source": "abbroadtrading01",
-			"description": "In addition to the ASP-based boilerplate solution, added overseas delivery and worldwide shipping functions."
-		},
-		{
-			"group": "07",
-			"date": "2014",
-			"title": "Room Control Management app",
-			"source": "roomcontrol01",
-			"description": "Room Control Management app could be added WooCommerce function to Wordpress base to manage rental payment as plugins."
-		},
-		{
-			"group": "07",
-			"date": "2015",
-			"title": "HCA landing design",
-			"source": "hcalanding01",
-			"description": "Landing page design for HCA website."
-		},
-		{
-			"group": "07",
-			"date": "2015",
-			"title": "Pin Auth with official authorization",
-			"source": "pinauth01",
-			"description": "Authorization feature on PIN with official authoization."
-		},
-		{
-			"group": "07",
-			"date": "2015",
-			"title": "Landing page design",
-			"source": "landingpage01",
-			"description": "Landing page design for product."
-		},
-		{
-			"group": "07",
-			"date": "2016",
-			"title": "Wholesale B2B Marketplace",
-			"source": "wholesaleb2b01",
-			"description": "Wholesale B2B marketplace plugin on Wordpress with WooCommerce and Dokan multivendor. "
-		},
-		{
-			"group": "07",
-			"date": "2016",
-			"title": "Automated Posting on SNS",
-			"source": "autopost01",
-			"description": "Wordpress plugin for automated posting on SNS."
+			"date": "2018",
+			"title": "Open-market API integration",
+			"source": "openmarket01",
+			"description": "Open-market API integrated in single control web app."
 		},
 		{
 			"group": "07",
 			"date": "2017",
-			"title": "Lyrics for app",
-			"source": "lyricsapp01",
-			"description": "UX/UI design for Lyrics app."
-		},
-		{
-			"group": "07",
-			"date": "2017",
-			"title": "ICO landing design",
-			"source": "icolanding01",
-			"description": "Landing page design for ICO website."
+			"title": "Chain sign landing design",
+			"source": "chainsign01",
+			"description": "Landing page design for Chain sign."
 		},
 		{
 			"group": "07",
@@ -560,30 +483,92 @@
 		{
 			"group": "07",
 			"date": "2017",
-			"title": "Chain sign landing design",
-			"source": "chainsign01",
-			"description": "Landing page design for Chain sign."
+			"title": "ICO landing design",
+			"source": "icolanding01",
+			"description": "Landing page design for ICO website."
 		},
 		{
 			"group": "07",
-			"date": "2018",
-			"title": "Open-market API integration",
-			"source": "openmarket01",
-			"description": "Open-market API integrated in single control web app."
+			"date": "2017",
+			"title": "Lyrics for app",
+			"source": "lyricsapp01",
+			"description": "UX/UI design for Lyrics app."
 		},
-		{			
-			"group": "08",
-			"date": "2019",
-			"title": "Hyundai Motor America PDI Android App",
-			"source": "hmapdi01",
-			"description": "Hyundai Pre Delivery Inspection Android application."
+		{
+			"group": "07",
+			"date": "2016",
+			"title": "Automated Posting on SNS",
+			"source": "autopost01",
+			"description": "Wordpress plugin for automated posting on SNS."
+        },
+		{
+			"group": "07",
+			"date": "2016",
+			"title": "Wholesale B2B Marketplace",
+			"source": "wholesaleb2b01",
+			"description": "Wholesale B2B marketplace plugin on Wordpress with WooCommerce and Dokan multivendor. "
 		},
-		{			
-			"group": "08",
-			"date": "2019",
-			"title": "Hyundai Motor America PDI Web application",
-			"source": "hmapdi02",
-			"description": "Hyundai Pre Delivery Inspection Web application."
+		{
+			"group": "07",
+			"date": "2015",
+			"title": "Landing page design",
+			"source": "landingpage01",
+			"description": "Landing page design for product."
+		},
+		{
+			"group": "07",
+			"date": "2015",
+			"title": "Pin Auth with official authorization",
+			"source": "pinauth01",
+			"description": "Authorization feature on PIN with official authoization."
+		},
+		{
+			"group": "07",
+			"date": "2015",
+			"title": "HCA landing design",
+			"source": "hcalanding01",
+			"description": "Landing page design for HCA website."
+		},
+		{
+			"group": "07",
+			"date": "2014",
+			"title": "Room Control Management app",
+			"source": "roomcontrol01",
+			"description": "Room Control Management app could be added WooCommerce function to Wordpress base to manage rental payment as plugins."
+		},
+		{
+			"group": "07",
+			"date": "2014",
+			"title": "e-commerce abroad trading solution",
+			"source": "abbroadtrading01",
+			"description": "In addition to the ASP-based boilerplate solution, added overseas delivery and worldwide shipping functions."
+		},
+		{
+			"group": "07",
+			"date": "2013",
+			"title": "SMS bulk messaging app",
+			"source": "smsbulk01",
+			"description": "Sends SMS in bulk, periodically at a certain time, or automatically sends a specified SMS when a specific event occurs. "
+		},
+		{
+			"group": "07",
+			"date": "2012",
+			"title": "Comnekr ASP e-commerce",
+			"source": "comnekr01",
+			"description": "E-commerce solution for Active Server Page. "
+		},
+		{
+			"group": "07",
+			"date": "2011",
+			"title": "Private Chat app",
+			"source": "privatechat01",
+			"description": "A SPA private chat messaging app service running in a browser."
+		},{
+			"group": "07",
+			"date": "2010",
+			"title": "ClubSpin website",
+			"source": "clubspin01",
+			"description": "WordPress CMS based club introduction website."
 		},
 		{			
 			"group": "08",
@@ -598,6 +583,20 @@
 			"title": "Genesis Pre-Delivery Inspection System",
 			"source": "genesispdi02",
 			"description": "Genesis PDI System Web Application."
+		},
+		{			
+			"group": "08",
+			"date": "2019",
+			"title": "Hyundai Motor America PDI Android App",
+			"source": "hmapdi01",
+			"description": "Hyundai Pre Delivery Inspection Android application."
+		},
+		{			
+			"group": "08",
+			"date": "2019",
+			"title": "Hyundai Motor America PDI Web application",
+			"source": "hmapdi02",
+			"description": "Hyundai Pre Delivery Inspection Web application."
 		}
 	]
 }
