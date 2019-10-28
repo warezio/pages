@@ -571,19 +571,26 @@
 			"source": "openmarket01",
 			"description": "Open-market API integrated in single control web app."
 		},
-		{
+		{			
 			"group": "10",
 			"date": "2019",
-			"title": "Genesis Pre-Delivery Inspection System",
-			"source": "genesispdi01",
-			"description": "Genesis PDI System Web Application"
+			"title": "Hyundai Motor America PDI Web application",
+			"source": "hyundaipdi02",
+			"description": "Hyundai Pre Delivery Inspection Web application."
 		},
 		{			
 			"group": "10",
 			"date": "2019",
 			"title": "Genesis PDI Android application",
+			"source": "genesispdi01",
+			"description": "Genesis PDI System Android application."
+		},
+		{
+			"group": "10",
+			"date": "2019",
+			"title": "Genesis Pre-Delivery Inspection System",
 			"source": "genesispdi02",
-			"description": "Genesis PDI System Website"
+			"description": "Genesis PDI System Web Application."
 		}
 	]
 }
