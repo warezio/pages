@@ -574,6 +574,13 @@
 		{			
 			"group": "10",
 			"date": "2019",
+			"title": "Hyundai Motor America PDI Android App",
+			"source": "hyundaipdi01",
+			"description": "Hyundai Pre Delivery Inspection Android application."
+		},
+		{			
+			"group": "10",
+			"date": "2019",
 			"title": "Hyundai Motor America PDI Web application",
 			"source": "hyundaipdi02",
 			"description": "Hyundai Pre Delivery Inspection Web application."
